@@ -10,4 +10,5 @@ The dataset for this project originates from the UCI Machine Learning Repository
 
 the resulet : 
 
+![image](https://user-images.githubusercontent.com/52973147/85183817-d1ec0a80-b295-11ea-919b-2cf6c639ecd6.png)
 
